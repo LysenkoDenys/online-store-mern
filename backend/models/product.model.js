@@ -17,6 +17,7 @@ const productSchema = new mongoose.Schema(
   },
   {
     timestamps: true, //createAt, updateAt
+    //it will be added to our items in MDB
   }
 );
 
