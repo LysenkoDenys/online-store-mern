@@ -57,5 +57,6 @@ export const useProductStore = create((set) => ({
         product._id === pid ? data.data : product
       ),
     }));
+    return { success: true, message: data.message };
   },
 }));
