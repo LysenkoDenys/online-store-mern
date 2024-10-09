@@ -2,8 +2,10 @@
 
 ### The app is a simple online store
 
-<p>This app deployed:</p>
+<p>This app is deployed:</p>
 https://online-store-mern.onrender.com/
+
+<br>
 
 <p>This app allows you:</p>
 <ul>
@@ -16,9 +18,9 @@ https://online-store-mern.onrender.com/
 
 <p>This MERN project uses next plug-ns, API, libraries:</p>
 <ul>
-<li>⭐https://vite.dev/</li>
+<li>⭐https://vite.dev</li>
 <li>⭐https://v2.chakra-ui.com</li>
-<li>⭐https://www.mongodb.com/</li>
+<li>⭐https://www.mongodb.com</li>
 </ul>
 
 <p>Totally adaptive to most popular devices.</p>
