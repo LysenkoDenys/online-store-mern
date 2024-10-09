@@ -3,9 +3,11 @@
 ### The app is a simple online store
 
 <p>This app is deployed:</p>
-https://online-store-mern.onrender.com/
+<ul>
+<li>https://online-store-mern.onrender.com</li>
+</ul>
 
-<br>
+<hr/>
 
 <p>This app allows you:</p>
 <ul>
