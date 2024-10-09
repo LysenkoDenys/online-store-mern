@@ -39,14 +39,14 @@ const NavBar = () => {
             <Button>
               <CiCirclePlus size="20" />
             </Button>
-            <Button onClick={toggleColorMode}>
-              {colorMode === 'light' ? (
-                <CiLight size="20" />
-              ) : (
-                <MdLightMode size="20" />
-              )}
-            </Button>
           </Link>
+          <Button onClick={toggleColorMode}>
+            {colorMode === 'light' ? (
+              <CiLight size="20" />
+            ) : (
+              <MdLightMode size="20" />
+            )}
+          </Button>
         </HStack>
       </Flex>
     </Container>

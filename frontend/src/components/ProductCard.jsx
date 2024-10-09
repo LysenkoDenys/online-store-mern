@@ -82,7 +82,11 @@ const ProductCard = ({ product }) => {
       rounded="lg"
       overflow="hidden"
       transition="all 0.3s"
-      _hover={{ transform: 'translateY(-5px)', shadow: 'xl' }}
+      _hover={{
+        transform: 'translateY(-5px)',
+        shadow: 'xl',
+        cursor: 'pointer',
+      }}
       bg={bg}
     >
       <Image
