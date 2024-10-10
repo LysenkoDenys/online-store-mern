@@ -2,10 +2,7 @@
 
 ### The app is a simple online store
 
-<p>This app is deployed:</p>
-<ul>
-<li>https://online-store-mern.onrender.com</li>
-</ul>
+<p>This app is deployed here: https://online-store-mern.onrender.com </p>
 
 <hr/>
 
